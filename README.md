@@ -13,7 +13,7 @@ My work spans **smart contracts, blockchain infrastructure, decentralized identi
 - Blockchain & Backend Engineer
 - Interested in distributed systems, blockchain security, and decentralized technologies
 - Focused on Decentralized Identity, Verifiable Credentials, and trust frameworks
-- Building solutions around Real-World Asset (RWA) tokenization
+- Developing smart-contract infrastructure for asset tokenization and on-chain compliance
 - Experienced with backend APIs, microservices, and cloud-native development
 - Strong focus on testing, clean architecture, security, and maintainability
 - Open to international engineering, Web3, consulting, and research opportunities
@@ -245,9 +245,9 @@ I believe a strong engineering project is not only about writing code — it is 
 
 ##  Connect With Me
 
- **LinkedIn:** `www.linkedin.com/in/raedbensaid`
+💼 [LinkedIn](https://www.linkedin.com/in/raedbensaid/)  
 
- **GitHub:** `https://github.com/raedbensaid`
+💻 [GitHub](https://github.com/raedbensaid)  
 
- **Email:** `raedbensaid@gmail.com`
+📧  (mailto:raedbensaid@gmail.com)
 
