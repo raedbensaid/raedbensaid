@@ -1,6 +1,6 @@
 # Hi, I'm Raed 
 
-### Software Engineer | Blockchain & Backend | Solidity | Go | TypeScript
+###  Software Engineer | Blockchain & Distributed Systems | Backend | Web3
 
 I’m a Blockchain & Backend Engineer focused on building **secure, scalable, and production-oriented distributed systems**.
 
@@ -13,7 +13,7 @@ My work spans **smart contracts, blockchain infrastructure, decentralized identi
 - Blockchain & Backend Engineer
 - Interested in distributed systems, blockchain security, and decentralized technologies
 - Focused on Decentralized Identity, Verifiable Credentials, and trust frameworks
-- Developing smart-contract infrastructure for asset tokenization and on-chain compliance
+- Designing, developing, and testing secure smart contracts for blockchain applications.
 - Experienced with backend APIs, microservices, and cloud-native development
 - Strong focus on testing, clean architecture, security, and maintainability
 - Open to international engineering, Web3, consulting, and research opportunities
@@ -23,6 +23,7 @@ My work spans **smart contracts, blockchain infrastructure, decentralized identi
 ##  What I Build
 
 - **Smart Contracts & Web3 Applications**
+- **Blockchain-based systems for document authenticity, provenance, and tamper detection**
 - **Real-World Asset (RWA) Tokenization**
 - **Decentralized Identity & Verifiable Credentials**
 - **Enterprise Blockchain Solutions**
